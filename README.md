@@ -1,6 +1,6 @@
-# Your ToDo List
+# Random Color Generator
 
-## Random Color Generator
+## Table of Contents
 
 - [Overview](#overview)
 - [Built With](#built-with)
