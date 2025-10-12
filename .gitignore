@@ -18,7 +18,20 @@ dist-ssr
 .idea
 .DS_Store
 *.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+out/
+build/
+
+# Vite/React/TypeScript/Node
+coverage/
+.env
+.env.*
+.cache/
+.turbo/
+.next/
